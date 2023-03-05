@@ -1,6 +1,8 @@
-# hive_tutorial
+# Minimalistic To Do App
 
-A new Flutter project.
+<img width="706" alt="Screenshot 2023-03-05 at 12 07 13 PM" src="https://user-images.githubusercontent.com/106310497/222957106-17659130-1fa3-4c13-a412-20c6d1bb58af.png">
+<img width="706" alt="Screenshot 2023-03-05 at 12 08 01 PM" src="https://user-images.githubusercontent.com/106310497/222957116-19914e55-1e22-4583-861b-ad49b0ebed76.png">
+
 
 ## Getting Started
 
